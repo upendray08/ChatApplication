@@ -4,7 +4,8 @@
   "description": "this is a simple chat application app",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server"
+    "dev": "nodemon server",
+    "start": "node server"
   },
   "author": "upendra yadav",
   "license": "ISC",
