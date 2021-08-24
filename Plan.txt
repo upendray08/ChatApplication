@@ -1,0 +1,14 @@
+1. create npm project
+2. create Index , css , js file 
+3. Install dependencies Express and nodemon(dev,dependencies)
+4. create an express server (server.js)
+5. do frontend part
+6. install socket.io and setup the soket.io
+7. sending message logic in client.js
+8. receiving event from client to server 
+9. sending event server to all browser client 
+10. receiving event in client and appending in client html page
+11. textarea clear
+12. scroll function create 
+13. creating the repo
+14. uploading to github
